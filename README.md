@@ -6,6 +6,10 @@
 	<img src="https://poggit.pmmp.io/shield.state/AntiHunger">
 </a>
 <br>
+<a href="https://poggit.pmmp.io/p/MultiWorld">
+	<img src="https://poggit.pmmp.io/shield.dl.total/AntiHunger?style=flat-square">
+</a> 
+<br>
 ✔️ You will never go hungry when using this plugin ✔️
 </p>
 
