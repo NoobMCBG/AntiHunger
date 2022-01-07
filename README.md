@@ -1,5 +1,5 @@
 <div align="center">
-AntiHunger | v1.0.0
+<h1>AntiHunger | v1.0.0<h1>
 </div>
 <p align="center">
 ✔️ You will never go hungry when using this plugin ✔️
