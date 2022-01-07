@@ -7,12 +7,12 @@
 
 <br>
 
-##☯ Features
+## ☯ Features
 - You will never go hungry when using this plugin
 
 <br>
 
-##✍ Config
+## ✍ Config
 ```
 ---
 # Hunger Mode
@@ -23,7 +23,7 @@ anti-hunger: true
 ...
 ```
 
-##↓ Install
+## ↓ Install
 - Step 1: Click the "Direct Download" button to download the plugin
 - Step 2: move the file "AntiHunger.phar" into the file "plugins"
 - Step 3: Restart server for plugins to work
