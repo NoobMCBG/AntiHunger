@@ -1,21 +1,18 @@
 <div align="center">
 <h1>AntiHunger | v1.0.0<h1>
 </div>
-
-<br>
-
 <p align="center">
-You will never go hungry when using this plugin
+✔️ You will never go hungry when using this plugin ✔️
 </p>
 
 <br>
 
-## Features
+##☯ Features
 - You will never go hungry when using this plugin
 
 <br>
 
-## Config
+##✍ Config
 ```
 ---
 # Hunger Mode
@@ -26,7 +23,7 @@ anti-hunger: true
 ...
 ```
 
-## Install
+##↓ Install
 - Step 1: Click the "Direct Download" button to download the plugin
 - Step 2: move the file "AntiHunger.phar" into the file "plugins"
 - Step 3: Restart server for plugins to work
