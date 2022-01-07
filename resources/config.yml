@@ -1,0 +1,7 @@
+---
+# Hunger Mode
+# true = No Hunger
+# false = Hunger
+anti-hunger: true
+
+...
