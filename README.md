@@ -28,7 +28,9 @@ anti-hunger: true
 ```
 
 ## 📃 License
-- [Apache Licenses 2.0]https://choosealicense.com/licenses/apache-2.0/
+- [Apache Licenses 2.0](https://choosealicense.com/licenses/apache-2.0/).
+
+<br>
 
 ## ↓ Install
 - Step 1: Click the "Direct Download" button to download the plugin
