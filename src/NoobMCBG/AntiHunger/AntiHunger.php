@@ -17,8 +17,8 @@ class AntiHunger extends PluginBase implements Listener {
 	}
 
 	public function checkUpdate(bool $isRetry = false): void {
-        $this->getServer()->getAsyncPool()->submitTask(new CheckUpdateTask($this->getDescription()->getName(), $this->getDescription()->getVersion()));
-    }
+        	$this->getServer()->getAsyncPool()->submitTask(new CheckUpdateTask($this->getDescription()->getName(), $this->getDescription()->getVersion()));
+    	}
 
 	public function onHunger(PlayerExhaustEvent $ev){
 		if($this->getConfig()->get("anti-hunger") == true){
